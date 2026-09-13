@@ -1,0 +1,7 @@
+{
+  "name": "Exam Paper Maker",
+  "description": "5th Grade Scholarship Exam Paper Maker (ශිෂ්‍යත්ව ප්‍රශ්නපත්‍ර නිර්මාපකය) with integrated school crest and logo branding",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
